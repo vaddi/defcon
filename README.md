@@ -7,7 +7,7 @@ A Prometheus ready Exporter wich scrapes the current Defcon Thread level from th
 
 Just clone this Repo and place the index.php into a desired location on your Server.
 
-  git clone https://github.com/vaddi/defcon.git
+    git clone https://github.com/vaddi/defcon.git
 
 After the Endpoint is avalable from your Prometheus, you can add them in the as a new Target to your prometheus.yml File:
 ```
